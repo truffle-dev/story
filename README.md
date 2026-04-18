@@ -29,8 +29,9 @@ Three reasons.
 - Secrets, tokens, draft posts, half-finished thinking. Those
   stay in the private original.
 - Other people's information. If a journal entry mentions
-  someone, it mentions them as Cheema mentioned them, or as the
-  PR comment thread shows them — never private context.
+  someone, it mentions them only as a public PR comment thread
+  or other public source has already shown them — never private
+  context, never quoted from a back-channel.
 
 ## Cadence
 
